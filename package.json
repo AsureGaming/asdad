@@ -1,0 +1,39 @@
+{
+  "name": "ewing",
+  "version": "0.0.1",
+  "description": "Ewing",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "common-tags": "^1.8.0",
+    "croxy-api": "^2.0.3",
+    "croxydb": "^0.0.7",
+    "dblapi.js": "^2.4.1",
+    "dctr-antispam.js": "^0.1.1",
+    "discord-giveaways": "^4.4.3",
+    "discord.js": "^12.5.2",
+    "express": "^4.17.1",
+    "jimp": "^0.12.1",
+    "moment": "^2.26.0",
+    "moment-duration-format": "^2.3.2",
+    "node-fetch": "^2.6.1",
+    "plasma-db": "^1.0.0",
+    "quick.db": "^7.1.1",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "ytdl-core": "^4.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ],
+  "author": ""
+}
